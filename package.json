@@ -1,6 +1,6 @@
 {
   "name": "react-custom-gradient-button",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "A fully flexible React-powered gradient button component",
   "repository": {
     "type": "git",
@@ -54,7 +54,7 @@
     "eslint-plugin-react": "^7.30.1",
     "jsdom": "^20.0.0",
     "react": "^18.2.0",
-    "react-custom-gradient-button": "^1.0.1",
+    "react-custom-gradient-button": "^1.0.7",
     "react-dom": "^18.2.0",
     "react-test-renderer": "^18.2.0",
     "vitest": "^0.22.1"

@@ -2086,6 +2086,40 @@ react-custom-gradient-button@^1.0.1:
     react-test-renderer "^18.2.0"
     vitest "^0.22.1"
 
+react-custom-gradient-button@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-custom-gradient-button/-/react-custom-gradient-button-1.0.6.tgz#0f6888f0567f648034739118b884ffaf6fb92687"
+  integrity sha512-ngSkM6d22pc0aYHk8p4psWSmpOq4MIiv9518c4oIlOQtSbVRpPIP6RYyaaKWEdgTOo3W6eWQ4oEmf5XS0c9PgQ==
+  dependencies:
+    "@testing-library/dom" "^8.17.1"
+    "@testing-library/react" "^13.3.0"
+    c8 "^7.12.0"
+    eslint "^8.22.0"
+    eslint-plugin-react "^7.30.1"
+    jsdom "^20.0.0"
+    react "^18.2.0"
+    react-custom-gradient-button "^1.0.1"
+    react-dom "^18.2.0"
+    react-test-renderer "^18.2.0"
+    vitest "^0.22.1"
+
+react-custom-gradient-button@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-custom-gradient-button/-/react-custom-gradient-button-1.0.7.tgz#34402b52789997335683310683cc787814f9b010"
+  integrity sha512-wWi1yUwe99dCvIKrvqJ+fBcwTc2incsCjgPOcCSFWqLLegrs5q4oQ3OpYThiDRKJXjHxKMQ/JLgO2H3vNkIQ8Q==
+  dependencies:
+    "@testing-library/dom" "^8.17.1"
+    "@testing-library/react" "^13.3.0"
+    c8 "^7.12.0"
+    eslint "^8.22.0"
+    eslint-plugin-react "^7.30.1"
+    jsdom "^20.0.0"
+    react "^18.2.0"
+    react-custom-gradient-button "^1.0.6"
+    react-dom "^18.2.0"
+    react-test-renderer "^18.2.0"
+    vitest "^0.22.1"
+
 react-dom@^18.2.0:
   version "18.2.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.2.0.tgz#22aaf38708db2674ed9ada224ca4aa708d821e3d"
