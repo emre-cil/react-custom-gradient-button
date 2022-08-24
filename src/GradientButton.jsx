@@ -8,6 +8,8 @@ const GradientButton = ({
   middle = '#61045f',
   end = '#aa076b',
   borderRadius = '0.5rem',
+  width = '',
+  height = '',
   ...props
 }) => {
   return (
@@ -16,6 +18,8 @@ const GradientButton = ({
         color: color,
         backgroundImage: `linear-gradient(to right, ${start} 0%, ${middle} 51%, ${end} 100%)`,
         borderRadius: borderRadius,
+        width: width,
+        height: height,
       }}
       className={`${classes.gradientButton} ${className}`}
       {...props}
