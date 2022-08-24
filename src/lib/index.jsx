@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './GradientButton.module.css';
+import './GradientButton.css';
 const GradientButton = ({
   children,
   className,
@@ -21,7 +21,7 @@ const GradientButton = ({
         width: width,
         height: height,
       }}
-      className={`${classes.gradientButton} ${className}`}
+      className={`cstm-button-grd ${className ? className : ''}`}
       {...props}
     >
       {children}

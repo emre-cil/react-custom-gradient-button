@@ -1,4 +1,4 @@
-.gradientButton {
+.cstm-button-grd {
   margin: 10px;
   padding: 15px 45px;
   text-align: center;
@@ -11,13 +11,13 @@
   cursor: pointer;
 }
 
-.gradientButton:hover {
+.cstm-button-grd:hover {
   background-position: right center; /* change the direction of the change here */
   color: #fff;
   text-decoration: none;
 }
 
-.gradientButton:active {
+.cstm-button-grd:active {
   background-position: center;
   opacity: 0.9;
 }
