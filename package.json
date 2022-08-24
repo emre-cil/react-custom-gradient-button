@@ -1,8 +1,33 @@
 {
   "name": "react-custom-gradient-button",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "1.0.0",
+  "description": "A fully flexible React-powered gradient button component",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidtheclark/react-aria-menubutton.git"
+  },
+  "author": {
+    "name": "Emre Cil",
+    "email": "info.emrecil@gmail.com",
+    "url": "http://emrecil.tech"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emre-cil/react-custom-gradient-button/issues"
+  },
+  "homepage": "https://github.com/emre-cil/react-custom-gradient-button",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-component",
+    "button",
+    "gradient",
+    "gradient-button",
+    "custom-gradient-button",
+    "customizable"
+  ],
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
