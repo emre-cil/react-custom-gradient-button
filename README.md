@@ -44,13 +44,13 @@ without style props
 ### npm
 
 ```sh
-$ npm install react-custom-gradient-button
+npm install react-custom-gradient-button
 ```
 
 ### yarn
 
 ```sh
-$ yarn add react-custom-gradient-button
+yarn add react-custom-gradient-button
 ```
 
 ### API
