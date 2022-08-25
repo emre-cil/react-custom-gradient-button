@@ -1,6 +1,6 @@
 {
   "name": "react-custom-gradient-button",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A fully flexible React-powered gradient button component",
   "repository": {
     "type": "git",
@@ -43,14 +43,15 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.1",
-    "vite": "^3.0.7"
-  },
-  "dependencies": {
-    "react": "^17.0.2"
+    "vite": "^3.0.9"
   },
   "browserslist": {
     "production": [
