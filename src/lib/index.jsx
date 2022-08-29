@@ -10,6 +10,7 @@ const GradientButton = ({
   borderRadius = '0.5rem',
   width = '',
   height = '',
+  style = {},
   ...props
 }) => {
   return (
@@ -20,6 +21,7 @@ const GradientButton = ({
         borderRadius: borderRadius,
         width: width,
         height: height,
+        ...style,
       }}
       className={`cstm-button-grd ${className ? className : ''}`}
       {...props}
