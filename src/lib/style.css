@@ -20,3 +20,7 @@
   background-position: center;
   opacity: 0.9;
 }
+
+.cstm-button-grd:focus {
+  border: 1px solid white !important;
+}

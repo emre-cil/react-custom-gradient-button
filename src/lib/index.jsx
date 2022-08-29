@@ -23,6 +23,7 @@ const GradientButton = ({
         height: height,
         ...style,
       }}
+      tabIndex={0}
       className={`cstm-button-grd ${className ? className : ''}`}
       {...props}
     >
