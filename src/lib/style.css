@@ -6,7 +6,7 @@
   background-size: 200% auto;
   display: block;
   outline: none;
-  border: none;
+  border: 1px solid transparent;
   cursor: pointer;
 }
 
@@ -22,5 +22,5 @@
 }
 
 .cstm-button-grd:focus {
-  border: 1px solid white !important;
+  border-color: white !important;
 }
