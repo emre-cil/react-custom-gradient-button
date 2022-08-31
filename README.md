@@ -11,6 +11,8 @@ The main purpose of this library implement custom gradient buttons easily.
 with props
 
 ```jsx
+import GradientButton from "react-custom-gradient-button"
+
 <GradientButton
   color="white"
   start="#aa076b"
@@ -30,6 +32,8 @@ with props
 without style props
 
 ```jsx
+import GradientButton from "react-custom-gradient-button"
+
 <GradientButton
   onClick={() => {
     console.log('!Clicked');
@@ -41,15 +45,20 @@ without style props
 
 ## Installation
 
+### pnpm (recommended)
+```
+pnpm install react-custom-gradient-button
+```
+
 ### npm
 
-```sh
+```
 npm install react-custom-gradient-button
 ```
 
 ### yarn
 
-```sh
+```
 yarn add react-custom-gradient-button
 ```
 
